@@ -7,7 +7,6 @@ ESP32 LED matrix weather display with temperature forecast.
 ## Hardware
 - ESP32 Dev Board
 - WS2812B LED Matrix: 18x16 (288 LEDs)
-- Data Pin: GPIO 15
 
 ## Setup
 
