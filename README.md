@@ -1,4 +1,4 @@
-# ESP32 Pixelbild Display
+# ESP32 Pixel Display
 
 ESP32 LED matrix weather display with temperature forecast.
 
